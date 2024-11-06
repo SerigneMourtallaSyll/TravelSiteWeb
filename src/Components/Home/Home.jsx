@@ -39,7 +39,7 @@ function Home() {
               </div>
             </div>
             <div className="dateInput">
-              <label htmlFor="date">Select the preview dates for your travel:</label>
+              <label htmlFor="date">Select your arrived date:</label>
               <div className='input flex'>
                 <input type="date" />
               </div>
